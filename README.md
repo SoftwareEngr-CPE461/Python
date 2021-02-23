@@ -1,9 +1,9 @@
-# Python Language
+# Python Language :snake:
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 This repository is strictly for individuals who wrote either their CGPA or Transcript Generator projects or codes with Python Language
 
-## How do I submit my project file/code?
+## How do I submit my project file/code? :detective:
 
 - Enter the appropriate repository matching your code sample
 
