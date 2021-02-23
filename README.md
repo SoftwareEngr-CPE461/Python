@@ -23,4 +23,4 @@ This repository is strictly for individuals who wrote their codes with Python La
 
 - Commit and Push your works and updates to the submission branch you've been working on
 
-- When finally done, create a PR and merge your work after correctly checking everything on the PR template
+- When finally done, create a PR with the title "**submission**" after correctly checking everything on the PR template
