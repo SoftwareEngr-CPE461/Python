@@ -13,9 +13,9 @@ This repository is strictly for individuals who wrote their codes with Python La
 
 - Head on to the forked repository if using remote access or the cloned repository if making changes from your local machine.
 
-- Make sure to avoid making changes to **main branch** by switching to  **submission branch**. Use ``git switch submission`` or ``git checkout submission`` to switch to the submission branch first
+- Make sure to avoid making changes to **main branch** by switching to  **submissions branch**. Use ``git switch submissions`` or ``git checkout submissions`` to switch to the submission branch first
 
-- Navigate to submissions folder in the repository under the **submission branch**
+- Navigate to submissions folder in the repository under the **submissions branch**
 
 - Create a new folder inside **submissions** folder with your *Matriculation Number* as the folder name Example: (Folder name): ENG1503XXXX 
 
